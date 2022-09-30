@@ -391,12 +391,12 @@
         "comment": "",
         "tests": [
             {
-                "rating": 1,
-                "comment": "Crashes immediately due to unsupported formats in MoltenVK.",
+                "rating": 4,
+                "comment": "You must remove the opening video or it will crash immediately. Some text and icons don't render.",
                 "source": "@jkcoxson",
                 "sourceURL": "https://github.com/jkcoxson",
                 "author": "emiyl",
-                "date": "2022-09-28",
+                "date": "2022-09-30",
                 "version": "2.0-4",
                 "hardware": "MacBook Air (M1, 7-GPU)",
                 "osVersion": "macOS 12",
